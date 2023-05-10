@@ -23,6 +23,6 @@ For the frontend of the system, WebGL artifacts were embedded within an AngularJ
 The entire SDLC pipeline along with the major tools and services we used are included below. Rather than exhaustively explain, here's some cool features:
 
 1. Unity Cloud Build was managed by Unity itself which meant it remained compabitible as new versions were released. In addition to providing binary files that were smaller than those we generated on local computers, it also provided online previews that we leveraged for certain user tests on bleeding-edge features.
-2. The ELK stack was extremely cost-effective for the startup while providing visibility across the system.
+2. The ELK stack was cost-effective for the startup while providing visibility across the system.
 
 ![alt text](startup_devops_pipeline.png "Startup Game Devops Pipeline")
