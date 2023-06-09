@@ -19,3 +19,6 @@ The entire SDLC pipeline along with the major tools and services we used are inc
 2. The ELK stack was cost-effective for the startup while providing visibility across the system.
 
 ![alt text](startup_devops_pipeline.png "Startup Game Devops Pipeline")
+
+## Gratitude
+Thanks to [Coram Bryant](https://www.linkedin.com/in/coram-bryant/) and [Stephen Heeps](https://www.linkedin.com/in/stephen-heeps-66267561/) for reviewing the architecture, ensuring accuracy, and teaching me new things in the process! Thanks to you too [ChatGPT](https://chat.openai.com/) for initial drafts of the text.
